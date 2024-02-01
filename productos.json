@@ -48,5 +48,15 @@
         "category": "prehospitalario",
         "status": true,
         "id": 10
+    },
+    {
+        "title": "collarvacio",
+        "description": "extricacion",
+        "code": "PL10",
+        "price": 24,
+        "stock": 666,
+        "category": "prehospitalario",
+        "status": true,
+        "id": 10
     }
 ]
